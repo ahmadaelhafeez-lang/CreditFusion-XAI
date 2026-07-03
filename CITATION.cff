@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CreditFusion-XAI: A Leakage-Aware Multi-Dataset Framework for Explainable Credit Default Prediction"
+authors:
+  - family-names: "Abd-Elsalam"
+    given-names: "Shimaa M."
+  - family-names: "Sayed"
+    given-names: "Hosam Eldin Fawzan"
+year: 2026
+repository-code: "https://github.com/YOUR_USERNAME/CreditFusion-XAI"
+license: MIT
